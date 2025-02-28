@@ -24,7 +24,7 @@ Quickly access documentation for multiple programming languages directly within 
 !docs c++ vectors
 !docs c pointers
 ```
-
+![alt text](image-1.png)
 ### 💻 Code Snippet Formatting (`!snippet`)
 
 Format your code snippets for better readability in Discord with syntax highlighting:
@@ -34,7 +34,7 @@ Format your code snippets for better readability in Discord with syntax highligh
 !snippet python def hello(): return "world"
 !snippet cpp int main() { return 0; }
 ```
-
+![alt text](image.png)
 ### 🛠️ Server Utilities
 
 - `!serverinfo` - Display detailed information about the server
