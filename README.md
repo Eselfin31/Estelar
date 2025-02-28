@@ -1,4 +1,4 @@
-# DevAssist Discord Bot
+# Estelar Discord Bot
 
 Discord bot designed to assist developers with quick access to programming documentation and code formatting.
 
