@@ -1,0 +1,26 @@
+{
+  "name": "discord-support-moderation-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for support and moderation",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "support",
+    "moderation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^2.6.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
